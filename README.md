@@ -133,6 +133,7 @@
     - [Fluffy-Bean](#fluffy-bean)
     - [gibranlp](#gibranlp)
     - [Hamza12700](#hamza12700)
+    - [imxade](#imxade)
     - [shayanaqvi](#shayanaqvi)
   - [Riverwm](#riverwm)
     - [theCode-Breaker](#thecode-breaker)
@@ -738,6 +739,10 @@
 ### [Hamza12700](https://github.com/Hamza12700/DotFiles)
 
 [![Hamza12700](https://github.com/Hamza12700/DotFiles/raw/main/screenshots/screenshot.png)](https://github.com/Hamza12700/DotFiles)
+
+### [imxade](https://github.com/imxade/dotbin)
+
+[![imxade](https://codeberg.org/XADE/dotbin/wiki/raw/assets/terminal.png)](https://github.com/imxade/dotbin)
 
 ### [shayanaqvi](https://github.com/shayanaqvi/dotfilets)
 
